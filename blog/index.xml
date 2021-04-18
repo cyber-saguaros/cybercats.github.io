@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest Posts on UArizona CyberCats</title>
+    <link>https://cybercats.github.io/blog/</link>
+    <description>Recent content in Latest Posts on UArizona CyberCats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> Powered by [Hugo](https://gohugo.io/) | [Hugo Theme](https://themes.gohugo.io/vex-hugo/)</copyright>
+    <lastBuildDate>Wed, 02 Dec 2020 11:00:00 -0700</lastBuildDate><atom:link href="https://cybercats.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started With Capture The Flag Competitions</title>
+      <link>https://cybercats.github.io/blog/getting_started_with_capture_the_flag/</link>
+      <pubDate>Wed, 02 Dec 2020 11:00:00 -0700</pubDate>
+      
+      <guid>https://cybercats.github.io/blog/getting_started_with_capture_the_flag/</guid>
+      <description>Author: Anna Acosta
+Capture the Flag is an information systems competition where teams search for flags throughout the web. This competition is held in different sizes and in different locations.</description>
+    </item>
+    
+    <item>
+      <title>AWS Introduction</title>
+      <link>https://cybercats.github.io/blog/aws_introduction/</link>
+      <pubDate>Tue, 01 Dec 2020 11:01:00 -0700</pubDate>
+      
+      <guid>https://cybercats.github.io/blog/aws_introduction/</guid>
+      <description>Author: Daniel Frost
+Amazon Web Services (AWS) is Amazon&amp;rsquo;s robust, evolving cloud computing network, which provides a combination of technology as a service (IaaS), platform as a service (PaaS), and offers bundled software as a service (SaaS).</description>
+    </item>
+    
+    <item>
+      <title>Learning Resources</title>
+      <link>https://cybercats.github.io/blog/learning_resources/</link>
+      <pubDate>Tue, 01 Dec 2020 11:01:00 -0700</pubDate>
+      
+      <guid>https://cybercats.github.io/blog/learning_resources/</guid>
+      <description>The following is a curated collection of resources that will help you get started and get involved in the world of hacking and information security.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to CyberCats!</title>
+      <link>https://cybercats.github.io/blog/welcome_to_cybercats/</link>
+      <pubDate>Tue, 01 Dec 2020 11:00:00 -0700</pubDate>
+      
+      <guid>https://cybercats.github.io/blog/welcome_to_cybercats/</guid>
+      <description>Hi there!
+We&amp;rsquo;re incredibly excited that you are here! Welcome to the CyberCats, a group of likeminded individuals that are bound together with the common goal of trying to untangle the complicated mess that is getting started and getting involved in the vast world of cybersecurity.</description>
+    </item>
+    
+  </channel>
+</rss>
